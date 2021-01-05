@@ -1,2 +1,2 @@
 ﻿# wrap-with-smile
-It takes the string that you give and wraps it with <h2>👍</h2>
+It takes a string that you give, and then wraps it with 👍
